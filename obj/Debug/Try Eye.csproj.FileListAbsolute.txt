@@ -1,0 +1,12 @@
+D:\Try Eye\bin\Debug\Try Eye.exe.config
+D:\Try Eye\bin\Debug\Try Eye.exe
+D:\Try Eye\bin\Debug\Try Eye.pdb
+D:\Try Eye\obj\Debug\Try Eye.csproj.AssemblyReference.cache
+D:\Try Eye\obj\Debug\Try_Eye.Form1.resources
+D:\Try Eye\obj\Debug\Try_Eye.Properties.Resources.resources
+D:\Try Eye\obj\Debug\Try Eye.csproj.GenerateResource.cache
+D:\Try Eye\obj\Debug\Try Eye.csproj.CoreCompileInputs.cache
+D:\Try Eye\obj\Debug\Try Eye.exe
+D:\Try Eye\obj\Debug\Try Eye.pdb
+D:\Try Eye\obj\Debug\Try_Eye.Form2.resources
+D:\Try Eye\obj\Debug\Try_Eye.Form3.resources
